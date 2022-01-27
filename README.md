@@ -4,7 +4,7 @@
 
 This is a Python library which can be used for the coordinate transformation between ETRS89 and Stereo70 coordinate reference systems (CRSs).
 
-It implments the official algorithm published by the Romanian *National Agency for Cadastre and Land Registration*, *Department of Geodesy and Cartography*, *Geodetic Service*.
+It implements the official algorithm published by the Romanian *National Agency for Cadastre and Land Registration*, *Department of Geodesy and Cartography*, *Geodetic Service*.
 For more details about the transformation please visit the [wiki](https://github.com/bogdanmorosanu/PyTransDatRO/wiki) section.
 
 ## Requirements
